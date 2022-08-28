@@ -14,6 +14,7 @@ class Api
     protected $host = 'https://api.admitad.com';
     private $lastRequest;
     private $lastResponse;
+    //yyyt
 
     public function __construct($accessToken = null)
     {
